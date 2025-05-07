@@ -1,1 +1,1 @@
-# GenAI_Externship_Implement_Your_own_Data_Structures
+In this project, you will build a simple inventory management program using Python's lists, dictionaries, and tuples. The program will allow you to add, remove, and update items in the inventory, display them in a user-friendly format, and even calculate the total value of the inventory.
